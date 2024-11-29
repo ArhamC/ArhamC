@@ -7,8 +7,8 @@
   - Color Guessing Game (HTML,CSS,Javascript)
   - Calculator
 
-📬 How to Reach Me:
-linkedin.com/in/arham-cheema/  <br>
+📬 How to Reach Me:<br>
+LinkedIn: linkedin.com/in/arham-cheema/  <br>
 Gmail: aforarham@gmail.com <br>
 GitHub: https://github.com/ArhamC<br>
 
