@@ -14,12 +14,12 @@ GitHub: https://github.com/ArhamC<br>
 
 💻 Technologies & Tools 🛠️<br>
 
-Programming Languages:<br>
+Programming Languages:
 Python JavaScript Java C# SQL
-<br>
-Frameworks & Libraries:<br>
+<br><br>
+Frameworks & Libraries:
 React Node.js Next.js Angular Express.js
-<br>
-Tools & Platforms:<br>
+<br><br>
+Tools & Platforms:
 AWS Git Visual Studio IntelliJ IDEA VS Code MySQL
 
