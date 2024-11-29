@@ -6,18 +6,20 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
   - Color Guessing Game (HTML,CSS,Javascript)
   - Calculator
-- <b>Much More
 
 📬 How to Reach Me:
-linkedin.com/in/arham-cheema/  Gmail: aforarham@gmail.com GitHub: https://github.com/ArhamC
+linkedin.com/in/arham-cheema/  <br>
+Gmail: aforarham@gmail.com <br>
+GitHub: https://github.com/ArhamC<br>
 
-💻 Technologies & Tools 🛠️
-Programming Languages:
+💻 Technologies & Tools 🛠️<br>
+
+Programming Languages:<br>
 Python JavaScript Java C# SQL
-
-Frameworks & Libraries:
+<br>
+Frameworks & Libraries:<br>
 React Node.js Next.js Angular Express.js
-
-Tools & Platforms:
+<br>
+Tools & Platforms:<br>
 AWS Git Visual Studio IntelliJ IDEA VS Code MySQL
 
