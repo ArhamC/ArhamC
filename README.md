@@ -8,15 +8,16 @@
   - Calculator
 - <b>Much More
 
+📬 How to Reach Me:
+linkedin.com/in/arham-cheema/  Gmail: aforarham@gmail.com GitHub: https://github.com/ArhamC
 
+💻 Technologies & Tools 🛠️
+Programming Languages:
+Python JavaScript Java C# SQL
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frameworks & Libraries:
+React Node.js Next.js Angular Express.js
+
+Tools & Platforms:
+AWS Git Visual Studio IntelliJ IDEA VS Code MySQL
+
